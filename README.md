@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisi</h1>
-<h3 align="center">Full stack developer from Argentina</h3>
+<h3 align="center">Full stack developer :computer: from Argentina</h3>
 
 <p align="left">I consider myself a curious person who is passionate about constantly learning. I enjoy working in a team, collaborating with others to achieve common goals. I value diversity of opinions and believe that listening to others enriches my work. While I consider various perspectives, I also make decisions based on my experience and judgment to achieve effective results.</p>
 
